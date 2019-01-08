@@ -105,7 +105,6 @@
     </dependencies>
 
     <build>
-        <finalName>cargo-tracker</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
